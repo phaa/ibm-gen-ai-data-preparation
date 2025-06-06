@@ -25,9 +25,12 @@ The course content and labs are in English; therefore, all code and documentatio
 The files and notebooks are organized by course modules:
 ```
 📁 Repository structure
-├── 📁 Module 1 - Generative AI Architectures
-├── 📁 Module 2 - Tokenization and Data Preparation
-├── README.md 
+├── 📁 Module 1 - Generative AI Architectures & LLMs
+│ ├── 📝 Lab: Exploring GenAI libraries
+├── 📁 Module 2 - Data Preparation & PyTorch Data Loaders
+│ ├── 📝 Lab: Tokenizer Implementation (word, char, subword)
+│ ├── 📝 Lab: Create a PyTorch NLP DataLoader
+├── README.md
 ```
 
 ## Technologies Used
